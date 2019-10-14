@@ -2,6 +2,13 @@
 
 > 弘度 UI 组件库 --- 基于Element-UI
 
+![npm version](https://img.shields.io/npm/v/hd-cmps)
+![npm license](https://img.shields.io/npm/l/hd-cmps)
+![GitHub issues](https://img.shields.io/github/issues-raw/HdvonFrontEnd/hd-cmps)
+![npm download](https://img.shields.io/npm/dt/hd-cmps)
+![npm code size](https://img.shields.io/github/languages/code-size/HdvonFrontEnd/hd-cmps)
+![GitHub package.json dynamic](https://img.shields.io/github/package-json/keywords/HdvonFrontEnd/hd-cmps)
+![Hdvon](https://img.shields.io/badge/hdvon-%E5%BC%98%E5%BA%A6%E7%A7%91%E6%8A%80%E2%9D%A4-orange)
 
 ## Build Setup
 
