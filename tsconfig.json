@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    // 设置成es5后，项目中使用Object.assign等会报错，但实际上能通过编译。测试一下设置成es6有没有问题
+    // 理论上应该可以编译成es6，babel再编译成es5
+    "target": "es5",
+    "downlevelIteration": true,
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "experimentalDecorators": true,
+    "baseUrl": ".",
+    "moduleResolution": "node",
+    "declaration": false,
+    "lib": ["ES5", "ES6", "ES7", "DOM"]
+  },
+
+  "exclude": [
+    "node_modules",
+    "dist",
+    "lib"
+  ]
+}

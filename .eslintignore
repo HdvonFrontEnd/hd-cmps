@@ -1,0 +1,5 @@
+package.json
+*.scss
+dist/**
+build/plugin/*.js
+/types/**/*.d.ts
