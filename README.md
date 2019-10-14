@@ -149,7 +149,11 @@ new Vue({
 
 完整的组件列表见components.json
 
-## License
+## 感谢
+感谢广州弘度信息科技有限公司给予的支持。
 
-MIT
+
+## License
+Hd-Cmps is [MIT](LICENSE)
+
 Copyright (c) HDVON 2019-present 
